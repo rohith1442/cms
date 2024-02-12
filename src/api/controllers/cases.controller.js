@@ -33,7 +33,7 @@ export class CaseController {
       const resp = await caseService.insertHeaderMapping(body);
       logger.info("Headers inserting completed.");
       return res
-        .status(200)
+        .status(201)
         .json({ success: true, resp, message: "Headers inserting completed." });
     } catch (error) {
       logger.error("Error:", error);

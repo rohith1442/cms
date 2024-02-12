@@ -76,7 +76,6 @@ export class CaseService {
         `Error fetching header mapping from DB: ${error.message}`
       );
     }
-    
   }
 
   async getCases() {
@@ -112,7 +111,6 @@ export class CaseService {
             institutionName: 1,
             city: 1,
             propertyType: 1,
-
           },
         },
       ]);

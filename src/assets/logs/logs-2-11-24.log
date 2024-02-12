@@ -1,0 +1,858 @@
+[32m2-11-2024, 2:35:03  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:35:03  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:35:29  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:35:29  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:35:36  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 2:35:37  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: The content type is not CSV.[0m [39m
+[32m2-11-2024, 2:35:52  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:35:52  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:35:55  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:35:55  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:37:13  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:37:13  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:37:16  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:37:16  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:40:18  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:40:18  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:40:21  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:40:21  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:40:28  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:40:28  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:40:31  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:40:31  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:47:50  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:47:50  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:48:04  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:48:04  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:48:06  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:48:06  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:48:22  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:48:22  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:48:25  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:48:25  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:48:51  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:48:51  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:48:54  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 2:48:54  [error] [37m[/node_modules/express/lib/router/layer.js] [95][0m: [31mError: filePath is not defined[0m [39m
+[32m2-11-2024, 2:49:25  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:49:25  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:49:28  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:49:28  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:49:52  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:49:52  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:49:55  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:49:55  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:50:48  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:50:48  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:50:51  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:50:51  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:52:58  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:52:58  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:53:01  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:53:01  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:54:11  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:54:11  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:54:14  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 2:54:15  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: The content type is not CSV.[0m [39m
+[32m2-11-2024, 2:54:42  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:54:42  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:54:45  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 2:54:46  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: Socket connection timeout[0m [39m
+[32m2-11-2024, 2:56:55  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 2:56:55  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 2:56:58  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 2:56:58  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:20:43  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:20:43  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:20:47  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 3:20:47  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: case validation failed: borrowerName: Path `borrowerName` is required., city: Path `city` is required., propertyName: Path `propertyName` is required.[0m [39m
+[32m2-11-2024, 3:23:26  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:23:26  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:23:29  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:23:29  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:24:51  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:24:51  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:24:54  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:24:54  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:26:27  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:26:27  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:31:45  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:31:45  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:33:34  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:33:34  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:33:41  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:33:41  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 3:39:44  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:39:44  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:39:48  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 3:39:48  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: case validation failed: bankName: Path `bankName` is required.[0m [39m
+[32m2-11-2024, 3:48:43  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:48:43  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:48:46  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 3:48:46  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: Cannot create property '0' on boolean 'true'[0m [39m
+[32m2-11-2024, 3:48:58  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 3:48:58  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 3:49:01  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 3:49:01  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: case validation failed: borrowerName: Path `borrowerName` is required., city: Path `city` is required., propertyName: Path `propertyName` is required., bankName: Path `bankName` is required.[0m [39m
+[32m2-11-2024, 5:46:38  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 5:46:38  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 5:54:36  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 5:54:36  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[31m2-11-2024, 5:58:25  [error] [37m[/node_modules/express/lib/router/layer.js] [95][0m: [31mError fetching header mapping from DB: partnerId is not defined[0m [39m
+[31m2-11-2024, 5:58:25  [error] [37m[node] [internal/process/task_queues][0m: [31mError: Error fetching header mapping from DB: partnerId is not defined[0m [39m
+[32m2-11-2024, 5:58:54  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 5:58:54  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[31m2-11-2024, 5:58:57  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError fetching header mapping from DB: partnerconfig validation failed: partnerId: Path `partnerId` is required., headersMapping: Path `headersMapping` is required., partnerName: Path `partnerName` is required.[0m [39m
+[31m2-11-2024, 5:58:57  [error] [37m[node] [internal/process/task_queues][0m: [31mError: Error fetching header mapping from DB: partnerconfig validation failed: partnerId: Path `partnerId` is required., headersMapping: Path `headersMapping` is required., partnerName: Path `partnerName` is required.[0m [39m
+[32m2-11-2024, 5:59:51  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 5:59:51  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[31m2-11-2024, 5:59:54  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError fetching header mapping from DB: partnerconfig validation failed: partnerId: Path `partnerId` is required., headersMapping: Path `headersMapping` is required., partnerName: Path `partnerName` is required.[0m [39m
+[31m2-11-2024, 5:59:54  [error] [37m[node] [internal/process/task_queues][0m: [31mError: Error fetching header mapping from DB: partnerconfig validation failed: partnerId: Path `partnerId` is required., headersMapping: Path `headersMapping` is required., partnerName: Path `partnerName` is required.[0m [39m
+[32m2-11-2024, 6:00:16  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 6:00:16  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 6:00:19  [info] [37m[node] [internal/process/task_queues][0m: [32mHeaders inserting completed.[0m [39m
+[32m2-11-2024, 6:00:57  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 6:00:57  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 6:02:01  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 6:02:01  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: Cannot create property '0' on boolean 'true'[0m [39m
+[32m2-11-2024, 6:02:22  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 6:02:22  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 6:02:25  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 6:02:25  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: Cannot create property '0' on boolean 'true'[0m [39m
+[32m2-11-2024, 8:33:19  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[31m2-11-2024, 8:33:49  [error] [37m[node] [internal/timers][0m: [31mCannot connect to the database! connect ECONNREFUSED 127.0.0.1:27017[0m {[39m
+[31m  "reason": {[39m
+[31m    "type": "Unknown",[39m
+[31m    "servers": {},[39m
+[31m    "stale": false,[39m
+[31m    "compatible": true,[39m
+[31m    "heartbeatFrequencyMS": 10000,[39m
+[31m    "localThresholdMS": 15,[39m
+[31m    "setName": null,[39m
+[31m    "maxElectionId": null,[39m
+[31m    "maxSetVersion": null,[39m
+[31m    "commonWireVersion": 0,[39m
+[31m    "logicalSessionTimeoutMinutes": null[39m
+[31m  }[39m
+[31m}[39m
+[32m2-11-2024, 8:34:26  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:34:26  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:34:48  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 8:34:48  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: Cannot create property '0' on boolean 'true'[0m [39m
+[32m2-11-2024, 8:36:06  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:36:06  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:36:10  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 8:36:10  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mCannot create property '0' on boolean 'true'[0m [39m
+[31m2-11-2024, 8:36:10  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: [31mCannot create property '0' on boolean 'true'[31m[0m [39m
+[32m2-11-2024, 8:38:19  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:38:19  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:38:26  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[31m2-11-2024, 8:38:26  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mCannot create property '0' on boolean 'true'[0m [39m
+[31m2-11-2024, 8:38:26  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError: An error occurred during CSV processing: [31mCannot create property '0' on boolean 'true'[31m[0m [39m
+[32m2-11-2024, 8:39:45  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:39:45  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:39:48  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 8:39:48  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 8:39:48  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 8:52:36  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:52:36  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:53:44  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 8:53:44  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[32m2-11-2024, 8:53:44  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 8:53:44  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 8:59:01  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 8:59:01  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 8:59:04  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 8:59:04  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[31m2-11-2024, 8:59:04  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError transforming data: case validation failed: partnerId: Path `partnerId` is required.[0m [39m
+[31m2-11-2024, 8:59:04  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError transforming data: case validation failed: partnerId: Path `partnerId` is required.[0m [39m
+[31m2-11-2024, 8:59:04  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: [31mError transforming data: case validation failed: partnerId: Path `partnerId` is required.[31m[0m [39m
+[32m2-11-2024, 9:00:52  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 9:00:52  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[32m2-11-2024, 9:00:52  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 9:00:52  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 9:01:04  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 9:01:04  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[31m2-11-2024, 9:01:04  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError transforming data: case validation failed: bankName: Path `bankName` is required., propertyName: Path `propertyName` is required., borrowerName: Path `borrowerName` is required., institutionName: Path `institutionName` is required.[0m [39m
+[31m2-11-2024, 9:01:04  [error] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [31mError transforming data: case validation failed: bankName: Path `bankName` is required., propertyName: Path `propertyName` is required., borrowerName: Path `borrowerName` is required., institutionName: Path `institutionName` is required.[0m [39m
+[31m2-11-2024, 9:01:04  [error] [37m[node] [internal/process/task_queues][0m: [31mError: An error occurred during CSV processing: [31mError transforming data: case validation failed: bankName: Path `bankName` is required., propertyName: Path `propertyName` is required., borrowerName: Path `borrowerName` is required., institutionName: Path `institutionName` is required.[31m[0m [39m
+[32m2-11-2024, 9:01:24  [info] [37m[/node_modules/express/lib/router/index.js] [284][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 9:01:24  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[32m2-11-2024, 9:01:24  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cases.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 9:01:24  [info] [37m[node] [internal/process/task_queues][0m: [32mData processing completed.[0m [39m
+[32m2-11-2024, 9:44:12  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 9:44:12  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 9:47:30  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 9:47:30  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 9:48:27  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 9:48:27  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 9:49:05  [info] [37m[node] [internal/timers][0m: [32m10 AM[0m [39m
+[32m2-11-2024, 9:49:05  [info] [37m[node] [internal/timers][0m: [32mFetch Data from CSV CRON Started at Sun Feb 11 2024 21:49:05 GMT+0530 (India Standard Time)[0m [39m
+[32m2-11-2024, 9:49:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[32m2-11-2024, 9:49:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 9:49:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32mExecuting task at 10 AM: {[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '2 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d34d"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.036Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.036Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '3 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d34e"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.036Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.036Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '4 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d34f"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.036Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.036Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '5 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d350"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.036Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.036Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '6 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d351"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '7 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d352"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '8 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d353"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '9 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d354"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '10 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d355"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '11 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d356"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '12 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d357"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '13 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d358"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '14 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d359"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '15 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35a"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '16 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35b"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '17 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35c"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '18 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35d"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '19 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35e"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '20 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d35f"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '21 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d360"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '22 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d361"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '23 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d362"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '24 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d363"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '25 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d364"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '26 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d365"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '27 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f379c0483d37bb43d366"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:19:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:19:05.037Z[39m
+[32m}[0m [39m
+[32m2-11-2024, 9:49:38  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 9:49:38  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 9:49:47  [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 9:49:47  [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 9:50:05  [info] [37m[node] [internal/timers][0m: [32m10 AM[0m [39m
+[32m2-11-2024, 9:50:05  [info] [37m[node] [internal/timers][0m: [32mFetch Data from CSV CRON Started at Sun Feb 11 2024 21:50:05 GMT+0530 (India Standard Time)[0m [39m
+[32m2-11-2024, 9:50:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32m[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object][0m [39m
+[32m2-11-2024, 9:50:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32mData saved to MongoDB.[0m [39m
+[32m2-11-2024, 9:50:05  [info] [37m[file] [///home/rohith/workspace/cms/src/api/controllers/cron.controller.js][0m: [32mExecuting task at 10 AM: {[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '2 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dcf"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.037Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.037Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '3 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd0"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '4 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd1"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '5 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd2"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '6 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd3"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '7 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd4"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '8 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd5"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '9 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd6"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '10 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd7"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '11 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd8"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '12 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dd9"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '13 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dda"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '14 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4ddb"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '15 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4ddc"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '16 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4ddd"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '17 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4dde"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.038Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.038Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '18 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4ddf"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '19 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de0"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '20 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de1"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '21 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de2"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '22 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de3"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '23 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de4"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '24 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de5"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '25 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de6"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '26 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de7"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m},{[39m
+[32m  bankName: 'hdfc',[39m
+[32m  propertyName: '27 floor buliding',[39m
+[32m  city: 'bangalore',[39m
+[32m  borrowerName: 'kissan',[39m
+[32m  institutionName: 's&g',[39m
+[32m  propertyType: 'house',[39m
+[32m  partnerId: 'A1B2',[39m
+[32m  _id: new ObjectId("65c8f3b57adcb0614d1c4de8"),[39m
+[32m  __v: 0,[39m
+[32m  createdAt: 2024-02-11T16:20:05.039Z,[39m
+[32m  updatedAt: 2024-02-11T16:20:05.039Z[39m
+[32m}[0m [39m
+[32m2-11-2024, 10:07:05 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:07:05 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:07:05 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 10:07:37 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:07:38 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:07:38 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 10:08:53 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:08:53 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:08:53 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 10:09:48 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:09:48 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:09:48 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[31m2-11-2024, 10:09:51 [error] [37m[/node_modules/express/lib/router/layer.js] [95][0m: [31mError: body is not defined[0m [39m
+[32m2-11-2024, 10:10:10 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:10:10 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:10:10 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[31m2-11-2024, 10:10:22 [error] [37m[/node_modules/express/lib/router/layer.js] [95][0m: [31mError: body is not defined[0m [39m
+[32m2-11-2024, 10:10:42 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 10:10:42 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 10:10:42 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 11:01:32 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 11:01:32 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 11:01:32 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 11:02:11 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 11:02:11 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 11:02:11 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 11:08:08 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 11:08:08 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 11:08:08 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
+[32m2-11-2024, 11:09:38 [info] [37m[node] [internal/modules/esm/module_job][0m: [32mExecuting task at 10 AM[0m [39m
+[32m2-11-2024, 11:09:38 [info] [37m[node] [internal/process/task_queues][0m: [32mServer is running on port 8080.[0m [39m
+[32m2-11-2024, 11:09:38 [info] [37m[node] [internal/process/task_queues][0m: [32mConnected to the database![0m [39m
