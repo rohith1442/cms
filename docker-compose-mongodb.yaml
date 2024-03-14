@@ -1,0 +1,10 @@
+version: '3.1'
+
+services:
+
+  # CMS NoSQL Database Instance
+  cms_mongodb_container:
+    image: mongo:latest
+    container_name: cms_mongo_instance
+    ports:
+      - 27017:27017

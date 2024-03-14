@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+
+  # Application compose definition
+  node-app:
+    build: .
+    image: node-app
+    container_name: cms
+    ports:
+      - '8080:8080'
+    depends_on:
+      - cms_mongodb_container
+    command: npm run app.js
